@@ -3,18 +3,19 @@
 	<Version current="1"/>
 	<Format>Project</Format>
 	<Header>
-		<Program name="TopoR" version="6.1"/>
+		<Program name="TopoR" version="6.0"/>
 		<GUID>{27796FE2-C1B9-473C-829B-3B9001BE67A9}</GUID>
 		<Annotation>Project file</Annotation>
 	</Header>
 	<Document>
 		<LocalLibrary />
 		<Pcb>
-			<File path=".\Usb2Uart.fsx" Folder="-1" isopened="0"/>
+			<File path=".\Usb2Uart.fsx" Folder="-1" isopened="1"/>
 		</Pcb>
 		<Import>
 			<Specctra>
 			<Path name="D:\Nute\HandyDevices\Usb2Uart\Usb2Uart.dsn"/>
+			<Path name="Z:\git\Usb2Uart\Usb2Uart.dsn"/>
 			</Specctra>
 		</Import>
 		<Export path="D:\Nute\HandyDevices\Usb2Uart\"/>
